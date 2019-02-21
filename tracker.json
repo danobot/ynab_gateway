@@ -1,0 +1,9 @@
+{
+    "ynab_gateway": {
+      "version": "0.1.0",
+      "local_location": "custom_components/ynab_gateway.py",
+      "remote_location": "https://raw.githubusercontent.com/danobot/ynab_gateway/master/ynab_gateway.py",
+      "visit_repo": "https://github.com/danobot/ynab_gateway",
+      "changelog": "https://github.com/danobot/ynab_gateway/releases/latest"
+    }
+}
